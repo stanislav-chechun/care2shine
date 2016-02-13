@@ -1,0 +1,5 @@
+services:
+  user_role_plugin_registration:
+    class: Drupal\user_role_plugin\ServiceInviteUser
+    arguments: []
+

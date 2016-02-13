@@ -1,0 +1,5 @@
+name: User Role Plugin
+type: module
+description: This module must create few users roles
+core: 8.x
+package: CRM

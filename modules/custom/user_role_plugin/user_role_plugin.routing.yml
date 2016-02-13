@@ -1,0 +1,7 @@
+user_role_plugin.chlen:
+  path: '/admin/structure/first'
+  defaults:
+    _controller: 'Drupal\user_role_plugin\Controller\UsersRoleController::getRoles'
+    _title: 'Hello'
+  requirements:
+    _permission: 'access content'

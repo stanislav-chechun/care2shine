@@ -1,0 +1,13 @@
+name: Care2Shine
+type: theme
+description: Care2Shine website theme
+package: Primary
+core: 8.x
+libraries:
+  - care2shine/global-styling
+
+base theme: bartik
+
+regions:
+  usa: USA
+  england: England

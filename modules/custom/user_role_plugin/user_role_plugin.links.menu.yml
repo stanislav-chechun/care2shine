@@ -1,0 +1,5 @@
+user_role_plugin.chlen:
+  title: Demo Link
+  description: 'This is a demo link'
+  parent: system.admin_structure
+  route_name: user_role_plugin.chlen

@@ -1,0 +1,14 @@
+{
+  "name": "drupal/user_role_plugin",
+  "type": "drupal-module",
+  "description": "This module must create few users roles",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/user_role_plugin",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "http://drupal.org/project/issues/user_role_plugin",
+    "source": "http://cgit.drupalcode.org/user_role_plugin"
+  },
+  "require": { }
+}
